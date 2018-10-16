@@ -32,5 +32,5 @@
         android:layout_marginBottom="24dp"
         android:contentDescription="@string/app_name"
         app:srcCompat="@drawable/coal" />
-
+    
 </RelativeLayout>
